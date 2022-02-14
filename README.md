@@ -20,8 +20,10 @@ Open [this spreadsheat](https://docs.google.com/spreadsheets/d/1OG6nSl9Qpo3lmCzE
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/82203087/153865901-a44ad1ee-45da-40fb-9c16-314444d634a3.png">
 
 Enter the ID of the file or folder you want to manage in the resource id line. (resource name is optional.)  
+You need to be an owner of those files or folders.  
+
 How do you know the ID of a file or folder?  
-The ID is a part of the URL when you open the file.  
+The ID is a part of the URL when you've opened the file.  
 
 **For example:**  
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/82203087/153867848-4a082482-067c-4ce4-addd-04d30062114f.png">
