@@ -1,7 +1,7 @@
 # SyncPermissions
 A tiny tool to synchronize permissions for Google Drive.  
 
-The original spreadsheet is [here](https://docs.google.com/spreadsheets/d/1OG6nSl9Qpo3lmCzEjNQhvFNDG133gd0BabO8JNJR9OA/edit?usp=sharing).  
+The original spreadsheet is [here](https://docs.google.com/spreadsheets/d/18GfMPMf5p3UIeuQphnRDnu3pwNbhKKlwCpk-XZ1dlx0/edit?usp=sharing).  
 Related article is here.
 
 ![image](https://user-images.githubusercontent.com/82203087/153862671-f491f648-2e2e-41ab-a5a5-1c0af28051c7.png)
@@ -11,7 +11,7 @@ This is a tool to manage and synchronize each user's permissions to various reso
 
 # How to use
 ## 1. Copy the original spreadsheet (only once).
-Open [this spreadsheat](https://docs.google.com/spreadsheets/d/1OG6nSl9Qpo3lmCzEjNQhvFNDG133gd0BabO8JNJR9OA/edit?usp=sharing), click [File]-[Make a copy], and save it to your Google Drive with a name of your choice. (You must be signed in with a Google account.)
+Open [this spreadsheat](https://docs.google.com/spreadsheets/d/18GfMPMf5p3UIeuQphnRDnu3pwNbhKKlwCpk-XZ1dlx0/edit?usp=sharing), click [File]-[Make a copy], and save it to your Google Drive with a name of your choice. (You must be signed in with a Google account.)
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/82203087/153865734-9efdf9f4-8598-4cf7-9ab4-c0651c3c845b.png">
 
