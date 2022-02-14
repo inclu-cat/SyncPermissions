@@ -34,7 +34,7 @@ Enter the Gmail addresses of the users you want to manage.
 Enter the character you want to set in each cell.  
 * **R**: read only (=viewer)
 * **W**: writable (=editor)  
-(A blank space means no access.)
+* **[Empty]**: no access
 
 ## 5. Click the Run button
 When you are ready, press the Run button to run the program.  
@@ -64,11 +64,11 @@ Follow the steps below to allow the script to run.
 
 
 ## 7. Click `OK`
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/82203087/153872497-7bdc8c16-490f-45d5-b214-09e22eedff6e.png">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/82203087/153872497-7bdc8c16-490f-45d5-b214-09e22eedff6e.png">
 
 ## 8. Wait until the process is done
 <img width="491" alt="image" src="https://user-images.githubusercontent.com/82203087/153882197-230752fb-290d-43a4-bd0c-3a87965a8858.png">
 
-When mini-console shows Done, All processing will have completed.
-This tool uses the LongRun class to be able to handle a large number of settings; if you see 'Pausing for long processing time...', the process will resume after a minute or so.
+When mini-console shows Done, All processing will have completed.  
+This tool uses the [LongRun class](https://github.com/inclu-cat/LongRun) to be able to handle a large number of settings; if you see 'Pausing for long processing time...', the process will resume after a minute or so.
 
