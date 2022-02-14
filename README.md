@@ -23,7 +23,7 @@ Enter the ID of the file or folder you want to manage in the resource id line. (
 How do you know the ID of a file or folder?  
 The ID is a part of the URL when you open the file.  
 For example:
-![image](https://user-images.githubusercontent.com/82203087/153867848-4a082482-067c-4ce4-addd-04d30062114f.png)
+<img width="394" alt="image" src="https://user-images.githubusercontent.com/82203087/153867848-4a082482-067c-4ce4-addd-04d30062114f.png">
 
 ### 3. Enter the users to be managed
 Enter the Gmail addresses of the users you want to manage.  
@@ -32,8 +32,8 @@ Enter the Gmail addresses of the users you want to manage.
 
 ### 4. Enter the permissions for each user
 Enter the character you want to set in each cell.  
-R: read only (=viewer)
-W: writable (=editor)
+* R: read only (=viewer)
+* W: writable (=editor)
 * (A blank space means no access.)
 
 ### 5. Click the Run button
@@ -47,22 +47,26 @@ The first time you run it, you will see a dialog asking for permission to run th
 ![image](https://user-images.githubusercontent.com/82203087/124216139-7901b400-db30-11eb-8779-64ee5d08b5e5.png)
 
 * Select your account (Perhaps it will be a different procedure for signing in.)
-![image](https://user-images.githubusercontent.com/82203087/124216263-ced65c00-db30-11eb-9ca8-b76ed62b9d9a.png)
+<img width="599" alt="image" src="https://user-images.githubusercontent.com/82203087/153871371-7675923e-e0ab-41f8-916e-a0e9161dfd91.png">
 
 * Click `Advanced`.
 ![image](https://user-images.githubusercontent.com/82203087/124218572-72297000-db35-11eb-8415-7fea148d679a.png)
 
-* Click `Go to GAS-Terminal (unsafe)`.
-![image](https://user-images.githubusercontent.com/82203087/124218687-b4eb4800-db35-11eb-8e64-64ffe67d2911.png)
+* Click `Go to SyncPermissions (unsafe)`.
+![image](https://user-images.githubusercontent.com/82203087/153871819-ff864c04-ecb0-4bb6-a65c-03c0a3c7567c.png)
 
 * Click `Allow`.
-![image](https://user-images.githubusercontent.com/82203087/124218833-fe3b9780-db35-11eb-8aa7-21949c756da3.png)
+![image](https://user-images.githubusercontent.com/82203087/153872372-76e2a844-8cc1-4eb6-9f23-0d8158f3314d.png)
 
-* Then click Execute button again.
+* Then click Run button again.
 
   **Don't worry about the word "unsafe". It's a dialog that all of us face when running our personal scripts.👍**
 
 
-### 7. Click `Yes` and check the result (as shown at the top of this page).
-![image](https://user-images.githubusercontent.com/82203087/124218975-4c509b00-db36-11eb-9e84-7b4b5f6e425e.png)
+### 7. Click `OK`
+<img width="354" alt="image" src="https://user-images.githubusercontent.com/82203087/153872497-7bdc8c16-490f-45d5-b214-09e22eedff6e.png">
+
+When mini-console shows Done, All processing will have completed.
+
+This tool uses the LongRun class to be able to handle a large number of settings; if you see 'Pausing for long processing time...', the process will resume after a minute or so.
 
