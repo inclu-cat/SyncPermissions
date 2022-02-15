@@ -9,7 +9,7 @@ Related article is here.
 # What is this?
 This is a tool to manage and synchronize each user's permissions to various resources in Google Drive.
 
-# How to use
+# How to use?
 ## 1. Copy the original spreadsheet (only once).
 Open [this spreadsheat](https://docs.google.com/spreadsheets/d/18GfMPMf5p3UIeuQphnRDnu3pwNbhKKlwCpk-XZ1dlx0/edit?usp=sharing), click [File]-[Make a copy], and save it to your Google Drive with a name of your choice. (You must be signed in with a Google account.)
 
@@ -28,7 +28,7 @@ The ID is a part of the URL when you've opened the file.
 **For example:**  
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/82203087/153867848-4a082482-067c-4ce4-addd-04d30062114f.png">
 
-**Caution:**  
+⚠️**Caution:**  
 If you want to set permissions for both the parent folder and child folders or files, enter the parent on the left side of the column so that the parent is processed first.
 
 ## 3. Enter the users to be managed
