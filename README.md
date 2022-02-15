@@ -28,6 +28,9 @@ The ID is a part of the URL when you've opened the file.
 **For example:**  
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/82203087/153867848-4a082482-067c-4ce4-addd-04d30062114f.png">
 
+**Caution:**  
+If you want to set permissions for both the parent folder and child folders or files, enter the parent on the left side of the column so that the parent is processed first.
+
 ## 3. Enter the users to be managed
 Enter the Gmail addresses of the users you want to manage.  
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/82203087/153868810-4260d25a-ddef-4769-8a64-850e8fbb932d.png">
