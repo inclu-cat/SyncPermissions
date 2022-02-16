@@ -2,7 +2,7 @@
 A tiny tool to synchronize permissions for Google Drive.  
 
 The original spreadsheet is [here](https://docs.google.com/spreadsheets/d/18GfMPMf5p3UIeuQphnRDnu3pwNbhKKlwCpk-XZ1dlx0/edit?usp=sharing).  
-Related article is here.
+Related article is [here](https://inclucat.wordpress.com/2022/02/15/google-drive-a-tiny-tool-to-synchronize-permissions/).
 
 ![image](https://user-images.githubusercontent.com/82203087/153862671-f491f648-2e2e-41ab-a5a5-1c0af28051c7.png)
 
