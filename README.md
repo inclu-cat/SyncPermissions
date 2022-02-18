@@ -1,7 +1,7 @@
 # SyncPermissions
 A tiny tool to synchronize permissions for Google Drive.  
 
-The original spreadsheet is [here](https://docs.google.com/spreadsheets/d/18GfMPMf5p3UIeuQphnRDnu3pwNbhKKlwCpk-XZ1dlx0/edit?usp=sharing).  
+The original spreadsheet is [here](https://docs.google.com/spreadsheets/d/10h3W57hR8lVpflryFyE0cgamuy8-ibXQnGkt5_UZsDc/edit?usp=sharing).  
 Related article is [here](https://inclucat.wordpress.com/2022/02/15/google-drive-a-tiny-tool-to-synchronize-permissions/).
 
 ![image](https://user-images.githubusercontent.com/82203087/153862671-f491f648-2e2e-41ab-a5a5-1c0af28051c7.png)
@@ -11,7 +11,7 @@ This is a tool to manage and synchronize each user's permissions to various reso
 
 # How to use?
 ## 1. Copy the original spreadsheet (only once).
-Open [this spreadsheat](https://docs.google.com/spreadsheets/d/18GfMPMf5p3UIeuQphnRDnu3pwNbhKKlwCpk-XZ1dlx0/edit?usp=sharing), click [File]-[Make a copy], and save it to your Google Drive with a name of your choice. (You must be signed in with a Google account.)
+Open [this spreadsheat](https://docs.google.com/spreadsheets/d/10h3W57hR8lVpflryFyE0cgamuy8-ibXQnGkt5_UZsDc/edit?usp=sharing), click [File]-[Make a copy], and save it to your Google Drive with a name of your choice. (You must be signed in with a Google account.)
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/82203087/153865734-9efdf9f4-8598-4cf7-9ab4-c0651c3c845b.png">
 
@@ -69,7 +69,8 @@ Follow the steps below to allow the script to run.
 
 
 ## 7. Click `OK`
-<img width="350" alt="image" src="https://user-images.githubusercontent.com/82203087/153872497-7bdc8c16-490f-45d5-b214-09e22eedff6e.png">
+<img width="354" alt="image" src="https://user-images.githubusercontent.com/82203087/154686255-b5c46641-ae8a-48c6-8845-7cf5e3a8fb04.png">
+Check "Process only the selected range" if you want to process only the settings of the selected range.
 
 ## 8. Wait until the process is done
 <img width="491" alt="image" src="https://user-images.githubusercontent.com/82203087/153882197-230752fb-290d-43a4-bd0c-3a87965a8858.png">
