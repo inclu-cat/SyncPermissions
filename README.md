@@ -14,7 +14,12 @@ This is a tool to manage and synchronize each user's permissions to various reso
 Open [this spreadsheat](https://docs.google.com/spreadsheets/d/10h3W57hR8lVpflryFyE0cgamuy8-ibXQnGkt5_UZsDc/edit?usp=sharing), click [File]-[Make a copy], and save it to your Google Drive with a name of your choice. (You must be signed in with a Google account.)
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/82203087/153865734-9efdf9f4-8598-4cf7-9ab4-c0651c3c845b.png">
+<br>
+<br>
 
+ℹ️ If you want to copy the spreadsheet directly into your "My Drive", click on [this link](https://docs.google.com/spreadsheets/d/10h3W57hR8lVpflryFyE0cgamuy8-ibXQnGkt5_UZsDc/copy).
+<br>
+<br>
 
 ## 2. Enter the resources to be managed
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/82203087/153865901-a44ad1ee-45da-40fb-9c16-314444d634a3.png">
