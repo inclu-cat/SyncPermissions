@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+    <script>
+      function onOK(){
+        let checked = document.getElementById('useSelectedRange').checked;
+        google.script.run.syncPermissions(checked);
+        google.script.host.close();
+      }
+      function onCancel(){
+        google.script.host.close();
+      }
+    </script>
+  </head>
+  <body>
+    Do you want to run?<br>
+    <b>Warning: Blank cells will remove access rights.</b>
+    <br>
+    <br>
+    <input type="checkbox" id="useSelectedRange" name="useSelectedRange">
+    <label for="useSelectedRange">Process only the selected range</label>
+    <br>
+    <br>
+    <button onclick="onOK()">OK</button> 
+    <button onclick="onCancel()">Cancel</button> 
+
+  </body>
+</html>
