@@ -26,7 +26,7 @@ function onClickRun() {
   let ui = SpreadsheetApp.getUi();
   var html = HtmlService.createHtmlOutputFromFile('dialog')
     .setWidth(300)
-    .setHeight(120);
+    .setHeight(160);
   ui.showModalDialog(html, "Confirm");
 }
 /**
