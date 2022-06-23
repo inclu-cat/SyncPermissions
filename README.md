@@ -44,7 +44,7 @@ Enter the Gmail addresses of the users you want to manage.
 Enter the character you want to set in each cell.  
 * **R**: read only (=viewer)
 * **W**: writable (=editor)  
-* **[Empty]**: no access
+* **[Empty]**: no access **(the access rights will be removed.)**
 
 ## 5. Click the Run button
 When you are ready, press the Run button to run the program.  
