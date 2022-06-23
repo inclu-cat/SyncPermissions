@@ -1,8 +1,8 @@
 # SyncPermissions
 A tiny tool to synchronize permissions for Google Drive.  
 
-The original spreadsheet is [here](https://docs.google.com/spreadsheets/d/10h3W57hR8lVpflryFyE0cgamuy8-ibXQnGkt5_UZsDc/edit?usp=sharing).  
-Related article is [here](https://inclucat.wordpress.com/2022/02/15/google-drive-a-tiny-tool-to-synchronize-permissions/).
+The original spreadsheet is [here](https://docs.google.com/spreadsheets/d/14gK7-0lyG5L-zQ0pZhnK7zy4oSldMN1HOdmm3RUJrVI/edit?usp=sharing).  
+Related article is [here](https://inclu-cat.net/2022/02/15/google-drive-a-tiny-tool-to-synchronize-permissions/).
 
 ![image](https://user-images.githubusercontent.com/82203087/153862671-f491f648-2e2e-41ab-a5a5-1c0af28051c7.png)
 
@@ -11,13 +11,13 @@ This is a tool to manage and synchronize each user's permissions to various reso
 
 # How to use?
 ## 1. Copy the original spreadsheet (only once).
-Open [this spreadsheat](https://docs.google.com/spreadsheets/d/10h3W57hR8lVpflryFyE0cgamuy8-ibXQnGkt5_UZsDc/edit?usp=sharing), click [File]-[Make a copy], and save it to your Google Drive with a name of your choice. (You must be signed in with a Google account.)
+Open [this spreadsheat](https://docs.google.com/spreadsheets/d/14gK7-0lyG5L-zQ0pZhnK7zy4oSldMN1HOdmm3RUJrVI/edit?usp=sharing), click [File]-[Make a copy], and save it to your Google Drive with a name of your choice. (You must be signed in with a Google account.)
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/82203087/153865734-9efdf9f4-8598-4cf7-9ab4-c0651c3c845b.png">
 <br>
 <br>
 
-ℹ️ If you want to copy the spreadsheet directly into your "My Drive", click on [this link](https://docs.google.com/spreadsheets/d/10h3W57hR8lVpflryFyE0cgamuy8-ibXQnGkt5_UZsDc/copy).
+ℹ️ If you want to copy the spreadsheet directly into your "My Drive", click on [this link](https://docs.google.com/spreadsheets/d/14gK7-0lyG5L-zQ0pZhnK7zy4oSldMN1HOdmm3RUJrVI/copy).
 <br>
 <br>
 
